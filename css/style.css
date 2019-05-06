@@ -1,14 +1,59 @@
-.box{
-	text-align:center;
-	font-family:sans-serif;
-	border-width:1px;
-	border-color:white;
-	border-style: solid;
-	padding:15px;
-	margin-right: 400px;
+
+.grid_container_12{
+	float: top;
+	position: fixed;
+	background-color: pink;
 }
-div{
+#heading{
+	text-align: left;
+	color:grey;
+	font-family: monospace;
+	font-size: 40px;
+	position:fixed;
+	text-align: left;
+	
+
+}
+nav ul a
+{
+	font-family: sans-serif;
+	text-decoration: none;
+	color:orange;
+	display: inline;
+	float:right;
+	padding-right:30px;
+}
+.grid_4{
+	max-height: 400px;
+	max-width: 400px;
+	padding-top: 50px;
+	margin-left: 30px;
+	margin-right:300px;
+	color: darkgrey;
 	font-family:sans-serif;
-	margin-left: 550px;
-	background-color: grey;
+	font-size: 20px;
+}
+
+#resolution{
+	max-height: 300px;
+	min-width: 300px;
+}
+#footer
+{
+	clear: both;
+}
+.main_img{
+	width: 100%;
+	max-height: 720px;
+	padding-top: 30px;
+}
+.blockqoute{
+	font-size: 28px;
+	color:grey;
+	font-family: monospace;
+}
+.grid_3{
+	padding: 20px auto;
+	font-style: inherit;
+	color: grey;
 }
