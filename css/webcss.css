@@ -35,7 +35,7 @@ nav ul{
 
 .container_12
 {
-	padding-top: 50px;
+	padding-top: 20px;
 }
 .grid_4{
 	max-height: 400px;
@@ -81,7 +81,10 @@ footer
 	width:100%;
 	background-color: pink;
 }
-
+.grid_3 a
+{
+	text-decoration: none;
+}
 
 /*
 .clearfix{
