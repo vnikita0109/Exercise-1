@@ -1,5 +1,6 @@
 
 .grid_container_12{
+<<<<<<< HEAD
 
 	
 }
@@ -22,10 +23,31 @@
 nav ul a
 {
 	float:right;
+=======
+	float: top;
+	position: fixed;
+	background-color: pink;
+	height: 70px;
+	width:100%;
+}
+#heading{
+	text-align: left;
+	color:grey;
+	font-family: monospace;
+	font-size: 40px;
+	position:fixed;
+	text-align: left;
+	
+
+}
+nav ul a
+{
+>>>>>>> 43428c683e26014b849c7e31e310ff8dabd6e142
 	font-family: sans-serif;
 	text-decoration: none;
 	color:orange;
 	display: inline;
+<<<<<<< HEAD
 	padding-right:30px;
 }
 
@@ -36,6 +58,18 @@ nav ul a
 	margin-left: 30px;
 	margin-right:30px;
 	color: #000000;
+=======
+	float:right;
+	padding-right:30px;
+}
+.grid_4{
+	max-height: 400px;
+	max-width: 400px;
+	padding-top: 50px;
+	margin-left: 30px;
+	margin-right:300px;
+	color: darkgrey;
+>>>>>>> 43428c683e26014b849c7e31e310ff8dabd6e142
 	font-family:sans-serif;
 	font-size: 20px;
 }
@@ -43,21 +77,32 @@ nav ul a
 #resolution{
 	max-height: 300px;
 	min-width: 300px;
+<<<<<<< HEAD
 	padding:auto;
+=======
+>>>>>>> 43428c683e26014b849c7e31e310ff8dabd6e142
 }
 #footer
 {
 	clear: both;
 }
+<<<<<<< HEAD
 h2{
 	text-decoration: underline;
 	color: grey;
+=======
+.main_img{
+	width: 100%;
+	max-height: 720px;
+	padding-top: 30px;
+>>>>>>> 43428c683e26014b849c7e31e310ff8dabd6e142
 }
 .blockqoute{
 	font-size: 28px;
 	color:grey;
 	font-family: monospace;
 }
+<<<<<<< HEAD
 .image1{
 	max-width: 540px;
 	max-height:540px;
@@ -66,5 +111,10 @@ h2{
 	padding-top:100px;
 	font-size: 32px
 	font-style:sans-serif;
+=======
+.grid_3{
+	padding: 20px auto;
+	font-style: inherit;
+>>>>>>> 43428c683e26014b849c7e31e310ff8dabd6e142
 	color: green;
 }
