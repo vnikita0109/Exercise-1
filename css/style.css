@@ -1,0 +1,70 @@
+
+.grid_container_12{
+
+	
+}
+.main_clearfix{
+	float: top;
+		width: 100%;
+	background-color: pink;
+	position:fixed;
+	height: 60px;
+}
+#heading{
+	float: left;
+	color:black;
+	font-family: sans-serif;
+	font-size: 40px;
+	width:100%;
+	position:fixed;
+	
+}
+nav ul a
+{
+	float:right;
+	font-family: sans-serif;
+	text-decoration: none;
+	color:orange;
+	display: inline;
+	padding-right:30px;
+}
+
+.grid_4{
+	max-height: 300px;
+	max-width: 300px;
+	
+	margin-left: 30px;
+	margin-right:30px;
+	color: #000000;
+	font-family:sans-serif;
+	font-size: 20px;
+}
+
+#resolution{
+	max-height: 300px;
+	min-width: 300px;
+	padding:auto;
+}
+#footer
+{
+	clear: both;
+}
+h2{
+	text-decoration: underline;
+	color: grey;
+}
+.blockqoute{
+	font-size: 28px;
+	color:grey;
+	font-family: monospace;
+}
+.image1{
+	max-width: 540px;
+	max-height:540px;
+}
+.grid_3{
+	padding-top:100px;
+	font-size: 32px
+	font-style:sans-serif;
+	color: green;
+}
